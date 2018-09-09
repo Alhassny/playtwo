@@ -1,0 +1,6 @@
+token=NDY4NzgyODE1MTA3MDg4Mzg0.DnbdPg.Vf-k0eN6cV4r4cmp6oyNXurY12w
+owner=449313863494664214
+prefix=2
+game=Dynasty Server
+stayinchannel=true
+songinstatus=true
